@@ -27,7 +27,7 @@ const ActivityCarousel = () => {
           }}
           navigation={true}
           modules={[Parallax, Pagination, Navigation]}
-          className="h-[500px] w-[80%] rounded-md bg-white text-black"
+          className="h-[500px] w-[80%] rounded-md bg-[#f0f0f0] text-black"
         >
           <SwiperSlide>
             <ActivityCreate />
